@@ -1,0 +1,9 @@
+{
+	"id": "spotify-playlist-sync",
+	"name": "Spotify Playlist Sync",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Spotify playlistlerini kapak, ad, açıklama ve şarkı listesiyle ayrı notlar olarak kaydeder ve belirli aralıklarla günceller.",
+	"author": "solshuenshia",
+	"isDesktopOnly": true
+}
